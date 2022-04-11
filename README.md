@@ -6,6 +6,6 @@ Purpose of this analysis is to compare the total weekly fares gained between dif
 
 ### Results
 
-![](images/stats.PNG)
+![](Images/graph.PNG)
 
 ### Summary
