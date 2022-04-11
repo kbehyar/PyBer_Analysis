@@ -20,5 +20,6 @@ Based on the image below, several recommendations for the CEO in order to balanc
 - To create bonus incentives rewards (Surges) for drivers during certain months of the year to shift their focus to suburban and Rural cities. There currently is more drivers in Urban city types than there are rides requested.
 - Offer drivers possible discounts on gas prices and maintenance packages on their vehicles for moving to Suburban and Rural areas.
 - This analysis is only based on the first quarter of the year, further information is required to make better judgement on the overall health of the business and whether or not this trend continues during other times of the year or not.
-- 
+
+
 ![](Images/graph.PNG)
